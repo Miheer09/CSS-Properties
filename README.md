@@ -4,10 +4,15 @@
 This Project is helpful to understand Basic CSS Properties
 
 This Website contains some of the properties of CSS Like:-
+
 1.Lists
+
 2.Text Properties
+
 3.Margin
+
 4.Padding
+
 And other small properties are also included.
 
 Lists:-
